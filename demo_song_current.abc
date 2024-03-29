@@ -1,1 +1,23 @@
+'''this file is simpler to parse, removing unused abc notation, therefore not tripping up the current implementation of the player
+ideally, this program should be able to parse a true abc notation file, but this incorrect formatting will do until then
+removed: track number, title, composer, time signature, chords, and correct note formatting'''
 
+Q: 70
+L: 1/8
+K: F#
+V:1
+|F4 F D C2|D4 F4|A4 A G Ac|C4 D4|
+V:2
+|A4 A G A c|G4 F4|D4 D D F G|A3 G F2 G2|
+V:1
+|F4 F d c G|F6 G2|F6 c2|A2 =d2 =f2 a2|
+V:2
+|A4 A G A c|d4 c4|A4 A G A c|a2 g2 c'2 a2|
+V:1
+|d'4 d' c' a g|a2 g2 f2 C2|c'4 c' d' c' a|g4 a4|
+V:2
+|f6 d2|c2 A2 G2 A2|A4 A f d c|A d c A G2 A2|
+V:1
+|d'4 d' d' f' d'|c'4 d'2 c'2|a4 a a g f|g3 a f2 d2||
+V:2
+|f6 d2|f4 d4|c4 A4|G4 F4||
