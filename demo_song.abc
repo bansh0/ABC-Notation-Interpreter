@@ -1,0 +1,27 @@
+#not implemented features: a lot
+
+X: 1
+T: Evening Sunset
+C: bansh
+M: 4/4
+Q: 70
+L: 1/8
+K: F#
+V:1
+|"F#"F4-FD C2|"C#"D4 F4|"D#m"A4-AGAc|"G#"C4 D4|
+V:2
+|A4-AGAc|G4 F4|D4-DDFG| A3 G F2 G2|
+V:1
+|"F#"F4-FdcG|"D#m"F6 G2|"C#"F6 c2|"A#"A2 =d2 "C#"=f2 a2|
+V:2
+|A4-AGAc|d4 c4|A4-AGAc|a2 g2 c'2 a2|
+V:1
+|"F#"d'4-d'c'ag|"A#"a2 g2 f2 C2|"C#"c'4-c'd'c'a|"G#"g4 a4|
+V:2
+|f6 d2|c2 A2 G2 A2|A4-Afdc|AdcA G2 A2|
+V:1
+|"F#"d'4-d'd'f'd'|"C#"c'4 d'2 c'2|"A#"a4-aagf|"G#"g3 a f2 d2||
+V:2
+|f6 d2|f4 d4|c4 A4|G4 F4||
+
+#somehow have to parse this
